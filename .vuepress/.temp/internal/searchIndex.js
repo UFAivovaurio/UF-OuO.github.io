@@ -91,16 +91,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "second page in category1",
+    "title": "first page in category1",
     "headers": [],
-    "path": "/blogs/category1/2019/092101.html",
+    "path": "/blogs/category1/2018/121501.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "first page in category1",
+    "title": "second page in category1",
     "headers": [],
-    "path": "/blogs/category1/2018/121501.html",
+    "path": "/blogs/category1/2019/092101.html",
     "pathLocale": "/",
     "extraFields": []
   },
