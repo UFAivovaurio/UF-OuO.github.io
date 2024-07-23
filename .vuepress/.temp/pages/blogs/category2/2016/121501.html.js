@@ -1,0 +1,3 @@
+import comp from "D:/blog/UF-OuO/.vuepress/.temp/pages/blogs/category2/2016/121501.html.vue"
+const data = JSON.parse("{\"path\":\"/blogs/category2/2016/121501.html\",\"title\":\"first page in category2\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"first page in category2\",\"date\":\"2016/12/15\",\"tags\":[\"tag3\"],\"categories\":[\"category2\"]},\"headers\":[],\"git\":{\"createdTime\":1721711567000,\"updatedTime\":1721711567000,\"contributors\":[{\"name\":\"UFAivovaurio\",\"email\":\"1459538260@qq.com\",\"commits\":1}]},\"filePathRelative\":\"blogs/category2/2016/121501.md\"}")
+export { comp, data }

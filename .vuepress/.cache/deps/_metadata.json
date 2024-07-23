@@ -1,0 +1,88 @@
+{
+  "hash": "8655373b",
+  "configHash": "302fa2d2",
+  "lockfileHash": "186c6107",
+  "browserHash": "279d5654",
+  "optimized": {
+    "@vueuse/core": {
+      "src": "../../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "bb1260ce",
+      "needsInterop": false
+    },
+    "@vue/devtools-api": {
+      "src": "../../../node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "98a11ebe",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "61a1df1a",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "0943e059",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "fcbe6b35",
+      "needsInterop": false
+    },
+    "@composables/index.js": {
+      "src": "../../../node_modules/vuepress-theme-reco/lib/client/composables/index.js",
+      "file": "@composables_index__js.js",
+      "fileHash": "e092fda6",
+      "needsInterop": false
+    },
+    "@utils/resolveStyles.js": {
+      "src": "../../../node_modules/vuepress-theme-reco/lib/client/utils/resolveStyles.js",
+      "file": "@utils_resolveStyles__js.js",
+      "fileHash": "822c95c3",
+      "needsInterop": false
+    },
+    "@utils/index.js": {
+      "src": "../../../node_modules/vuepress-theme-reco/lib/client/utils/index.js",
+      "file": "@utils_index__js.js",
+      "fileHash": "e19a070b",
+      "needsInterop": false
+    },
+    "@utils/other.js": {
+      "src": "../../../node_modules/vuepress-theme-reco/lib/client/utils/other.js",
+      "file": "@utils_other__js.js",
+      "fileHash": "c62be3e2",
+      "needsInterop": false
+    },
+    "@utils/other": {
+      "src": "../../../node_modules/vuepress-theme-reco/lib/client/utils/other.js",
+      "file": "@utils_other.js",
+      "fileHash": "0be17a1d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-UKOHN5HC": {
+      "file": "chunk-UKOHN5HC.js"
+    },
+    "chunk-XN5WPJGI": {
+      "file": "chunk-XN5WPJGI.js"
+    },
+    "chunk-CXPLV47U": {
+      "file": "chunk-CXPLV47U.js"
+    },
+    "chunk-JAVM7GLV": {
+      "file": "chunk-JAVM7GLV.js"
+    },
+    "chunk-YAYKCFGP": {
+      "file": "chunk-YAYKCFGP.js"
+    },
+    "chunk-7U33LM2Z": {
+      "file": "chunk-7U33LM2Z.js"
+    }
+  }
+}
