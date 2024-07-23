@@ -1,6 +1,6 @@
 set -e
 
-yarn build
+npm run build
 
 cd .vuepress/dist
 
