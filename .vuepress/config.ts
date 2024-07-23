@@ -4,6 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
+  base:"/UF-OuO.github.io/",
   title: "UF-OuO",
   description: "Just playing around",
   bundler: viteBundler(),
