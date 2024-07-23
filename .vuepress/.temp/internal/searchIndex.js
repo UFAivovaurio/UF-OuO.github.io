@@ -77,13 +77,6 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "second page in category1",
-    "headers": [],
-    "path": "/blogs/category1/2019/092101.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "first page in category1",
     "headers": [],
     "path": "/blogs/category1/2018/121501.html",
@@ -91,9 +84,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "second page in category2",
+    "title": "second page in category1",
     "headers": [],
-    "path": "/blogs/category2/2017/092101.html",
+    "path": "/blogs/category1/2019/092101.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -101,6 +94,13 @@ export const searchIndex = [
     "title": "first page in category2",
     "headers": [],
     "path": "/blogs/category2/2016/121501.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "second page in category2",
+    "headers": [],
+    "path": "/blogs/category2/2017/092101.html",
     "pathLocale": "/",
     "extraFields": []
   },
